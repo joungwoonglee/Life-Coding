@@ -15,8 +15,14 @@
     padding-right: 8px;
 }
 
+.top{
+    position: relative;
+}
+
 .banner{
-    padding-top: 56px;
+    /* padding-top: 56px; */
+    position: fixed;
+    margin-top: 56px;
 }
 
 .row{
