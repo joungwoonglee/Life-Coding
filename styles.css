@@ -44,6 +44,10 @@
     margin-top: 5%;
 }
 
+.card-header{
+    font-weight: bold;
+}
+
 footer{
     /* background: gray; */
     /* color: white; */
