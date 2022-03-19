@@ -49,6 +49,10 @@
     font-weight: bold;
 }
 
+.accordion-header{
+    font-weight: bold;  
+}
+
 footer{
     /* background: gray; */
     /* color: white; */
